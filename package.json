@@ -1,0 +1,24 @@
+{
+  "name": "vue-async-component-handler",
+  "version": "0.1.3",
+  "description": "vue异步加载组件时更方便处理异步组件状态的handler",
+  "keywords": "vue 异步组件 异步加载",
+  "main": "src/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "type": "vue-gallary",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "chenzhuo04@meituan.com",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
